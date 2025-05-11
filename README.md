@@ -15,7 +15,5 @@ Now Deploy
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Mansurynassoro/MANSURY-XMD-SESSION' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [`HERE'S AN EXAMPLE OUTPUT`](https://mansury-xmd-session.onrender.com)
-# `Owner`
 
- <a href="https://github.com/Mansurynassoro"><img src="https://github.com/It Mansurynassoro.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
 
