@@ -1,21 +1,22 @@
 {
-    "name": "Ultra Titan MD Session Generator",
-    "description": "Ultra Titan MD Bot - Web Session Generator",
+    "name": "Wasi Session Generator",
+    "description": "I'm Web Session Generator by Itxx Me Wasi",
     "logo": "",
-    "repository": "https://github.com/Team-TitanSquad/ULTRA_TITAN-MD",
-    "keywords": ["UltraTitanMD", "Session Generator", "WhatsApp Bot"],
+    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "keywords": ["@Xcelsama"],
     "success_url": "/", 
-    "buildpacks": [{ "url": "heroku/nodejs" } ],
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
       "PORT": {
-        "description": "Port for web app. Use 3000 if Render fails.",
-        "value": "3000",
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
         "required": false 
       },
       "MESSAGE": {
-        "description": "Welcome message for bot",
-        "value": "Ultra Titan MD Bot is now live!",
+        "description": "",
+        "value": "",
         "required": false 
       }
     }   
+
 }
