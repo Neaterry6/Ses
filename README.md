@@ -1,33 +1,60 @@
-# Wasi-Session-Generator
-- Kindly star my repo
-- Fork and edit as you wish
-- Deploy to your favourite hosting server eg Heroku or Render or self hosting
+# Ultra-Titan-Session-Generator  
+- Kindly star the repository ⭐  
+- Fork and customize as needed  
+- Deploy to your favorite hosting server (Heroku, Render, or self-hosting)  
 
-<strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+**Note:** This repository generates session IDs for all bots using **whiskeysockets/baileys**.
+
+---
+
+### 🔥 QR-Code, Web, and Pair Code for Bots with **Whiskeysockets/Baileys**  
 <p align="center">
-   <a href="https://github.com/Itxxwasi">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
-     
+   <a href="https://github.com/Team-TitanSquad">
+    <img src="https://files.catbox.moe/dclpwh.jpg" width="500">
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+</p>
 
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{Neaterry6}/count.svg" alt="Ultra Titan MD Bot Visitor Count" />
+</p>
 
+[`ℹ️ Contact Owner`](https://wa.me/2348039896597)
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+---
 
-FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Itxxwasi/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+### 🔄 **Fork the Repository**  
+<a href="https://github.com/Team-TitanSquad/ULTRA_TITAN-MD/fork">
+<img title="WEB" src="https://img.shields.io/badge/FORK Ultra-Titan-QR?color=black&style=for-the-badge&logo=stackshare">
+</a>
 
-Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/SESSION-GENERATOR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+### 🚀 **Deploy Now**  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Team-TitanSquad/ULTRA_TITAN-MD' target="_blank">
+<img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+</a>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
-# `Owner`
+[`🔗 Example Output`](https://ultra-titan-session.herokuapp.com)
 
- <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+---
 
+### 📌 **Owner Details**
+<p align="center">
+<a href="https://github.com/Neaterry6"><img src="https://github.com/Neaterry6.png" width="250" height="250" alt="Ultra Titan MD Bot Owner"/></a>
+</p>
+
+- **GitHub:** [Neaterry6](https://github.com/Neaterry6)  
+- **LinkedIn:** [Adewushola Abdulbakri](https://www.linkedin.com/in/akewushola-abdulbakri-659458365)  
+- **Facebook:** [Profile Link](https://www.facebook.com/profile.php?id=61575627958849)  
+- **Telegram:** [Heartbreak798453](https://t.me/Heartbreak798453)  
+- **WhatsApp:** [Contact Me](https://wa.me/2348039896597)  
+- **Writer's Channel:** [Read My Stories](https://whatsapp.com/channel/0029Vb63QCJ9Gv7Q5ec5rt3e)  
+
+---
+
+### 🏆 **Support the Project**  
+- 🌟 Star the Repository on **GitHub**  
+- 💬 Join the **Discussion Group**  
+- 📢 Follow the **Writer's Channel**  
+
+---
+
+This version is **clean, professional, and fully customized** with your branding. 🚀 Let me know if you need more refinements! 🔥
